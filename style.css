@@ -1,0 +1,54 @@
+body{
+	color:black;
+	font-size:18px;
+	background-color:#C8C8C8;
+}
+
+svg{
+	border: 1px solid gray;
+}
+
+#header{
+	background-color:#383838;
+	color:white;
+	text-align:center;
+	padding:5px;
+}
+
+#footer{
+	background-color:#383838;
+	color:white;
+	text-align:center;
+	padding:5px;
+	margin-top:40px;
+}
+
+#table{
+    border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+#player_data, #country_data
+{
+    background: #fff;
+    margin-top:10px;
+	border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000;
+}
+
+.domain{
+	fill:none
+	stroke:black;
+}
+
+.tick line{
+	stroke:black;
+
+}
+
