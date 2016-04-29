@@ -1,0 +1,588 @@
+{
+  "collection1": [
+    {
+      "pais": "Afghanistan",
+      "euros_rebuts": "5265.95"
+    },
+    {
+      "pais": "Albania",
+      "euros_rebuts": "298.38"
+    },
+    {
+      "pais": "Algeria",
+      "euros_rebuts": "207.96"
+    },
+    {
+      "pais": "Angola",
+      "euros_rebuts": "287.61"
+    },
+    {
+      "pais": "Antigua & Barbuda",
+      "euros_rebuts": "1.5"
+    },
+    {
+      "pais": "Argentina",
+      "euros_rebuts": "30.12232"
+    },
+    {
+      "pais": "Armenia",
+      "euros_rebuts": "292.76"
+    },
+    {
+      "pais": "Azerbaijan",
+      "euros_rebuts": "-63.13"
+    },
+    {
+      "pais": "Bangladesh",
+      "euros_rebuts": "2669.1"
+    },
+    {
+      "pais": "Belarus",
+      "euros_rebuts": "104.68"
+    },
+    {
+      "pais": "Belize",
+      "euros_rebuts": "49.55"
+    },
+    {
+      "pais": "Benin",
+      "euros_rebuts": "652.61"
+    },
+    {
+      "pais": "Bhutan",
+      "euros_rebuts": "134.69"
+    },
+    {
+      "pais": "Bolivia",
+      "euros_rebuts": "699.15"
+    },
+    {
+      "pais": "Bosnia-Herzegovina",
+      "euros_rebuts": "550.04"
+    },
+    {
+      "pais": "Botswana",
+      "euros_rebuts": "108.38"
+    },
+    {
+      "pais": "Brazil",
+      "euros_rebuts": "1150.17"
+    },
+    {
+      "pais": "Burkina Faso",
+      "euros_rebuts": "1040.11"
+    },
+    {
+      "pais": "Burundi",
+      "euros_rebuts": "546.27"
+    },
+    {
+      "pais": "Cambodia",
+      "euros_rebuts": "804.81"
+    },
+    {
+      "pais": "Cameroon",
+      "euros_rebuts": "737.49"
+    },
+    {
+      "pais": "Cape Verde",
+      "euros_rebuts": "243.37"
+    },
+    {
+      "pais": "Central African Republic",
+      "euros_rebuts": "189.25"
+    },
+    {
+      "pais": "Chad",
+      "euros_rebuts": "399.33"
+    },
+    {
+      "pais": "Chile",
+      "euros_rebuts": "78.52"
+    },
+    {
+      "pais": "China",
+      "euros_rebuts": "-651,11"
+    },
+    {
+      "pais": "Colombia",
+      "euros_rebuts": "852.03"
+    },
+    {
+      "pais": "Comoros",
+      "euros_rebuts": "81.9"
+    },
+    {
+      "pais": "Congo, Dem. Rep.",
+      "euros_rebuts": "2572.2"
+    },
+    {
+      "pais": "Congo, Rep.",
+      "euros_rebuts": "150.4"
+    },
+    {
+      "pais": "Costa Rica",
+      "euros_rebuts": "37.77"
+    },
+    {
+      "pais": "Côte d'Ivoire",
+      "euros_rebuts": "1262"
+    },
+    {
+      "pais": "Cuba",
+      "euros_rebuts": "101.24"
+    },
+    {
+      "pais": "Djibouti",
+      "euros_rebuts": "152.95"
+    },
+    {
+      "pais": "Dominica",
+      "euros_rebuts": "19.8"
+    },
+    {
+      "pais": "Dominican Republic",
+      "euros_rebuts": "148.13"
+    },
+    {
+      "pais": "Ecuador",
+      "euros_rebuts": "147.8"
+    },
+    {
+      "pais": "Egypt",
+      "euros_rebuts": "5505"
+    },
+    {
+      "pais": "El Salvador",
+      "euros_rebuts": "171.3"
+    },
+    {
+      "pais": "Equatorial Guinea",
+      "euros_rebuts": "5.7"
+    },
+    {
+      "pais": "Eritrea",
+      "euros_rebuts": "83.69"
+    },
+    {
+      "pais": "Ethiopia",
+      "euros_rebuts": "3,826.2"
+    },
+    {
+      "pais": "Fiji",
+      "euros_rebuts": "90.9"
+    },
+    {
+      "pais": "Gabon",
+      "euros_rebuts": "90.8"
+    },
+    {
+      "pais": "Gambia",
+      "euros_rebuts": "110.8"
+    },
+    {
+      "pais": "Georgia",
+      "euros_rebuts": "652.7"
+    },
+    {
+      "pais": "Ghana",
+      "euros_rebuts": "1,330.5"
+    },
+    {
+      "pais": "Grenada",
+      "euros_rebuts": "10"
+    },
+    {
+      "pais": "Guatemala",
+      "euros_rebuts": "494.1"
+    },
+    {
+      "pais": "Guinea",
+      "euros_rebuts": "499.5"
+    },
+    {
+      "pais": "Guinea-Bissau",
+      "euros_rebuts": "103.6"
+    },
+    {
+      "pais": "Guyana",
+      "euros_rebuts": "101.8"
+    },
+    {
+      "pais": "Haiti",
+      "euros_rebuts": "1,170.5"
+    },
+    {
+      "pais": "Honduras",
+      "euros_rebuts": "627.6"
+    },
+    {
+      "pais": "India",
+      "euros_rebuts": "2435.68"
+    },
+    {
+      "pais": "Indonesia",
+      "euros_rebuts": "53.3"
+    },
+    {
+      "pais": "Iran",
+      "euros_rebuts": "131.3"
+    },
+    {
+      "pais": "Iraq",
+      "euros_rebuts": "1,541.4"
+    },
+    {
+      "pais": "Israel",
+      "euros_rebuts": "3,150.0"
+    },
+    {
+      "pais": "Jamaica",
+      "euros_rebuts": "70.3"
+    },
+    {
+      "pais": "Jordan",
+      "euros_rebuts": "1,407.9"
+    },
+    {
+      "pais": "Kazakhstan",
+      "euros_rebuts": "91.3"
+    },
+    {
+      "pais": "Kenya",
+      "euros_rebuts": "3,236.2"
+    },
+    {
+      "pais": "Kiribati",
+      "euros_rebuts": "64.4"
+    },
+    {
+      "pais": "North Korea",
+      "euros_rebuts": "109"
+    },
+    {
+      "pais": "Kosovo",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "Kyrgyzstan",
+      "euros_rebuts": "536.6"
+    },
+    {
+      "pais": "Laos",
+      "euros_rebuts": "421"
+    },
+    {
+      "pais": "Lebanon",
+      "euros_rebuts": "626.4"
+    },
+    {
+      "pais": "Lesotho",
+      "euros_rebuts": "320"
+    },
+    {
+      "pais": "Liberia",
+      "euros_rebuts": "534.2"
+    },
+    {
+      "pais": "Libya",
+      "euros_rebuts": "129.4"
+    },
+    {
+      "pais": "Macedonia",
+      "euros_rebuts": "251.6"
+    },
+    {
+      "pais": "Madagascar",
+      "euros_rebuts": "499.7"
+    },
+    {
+      "pais": "Malawi",
+      "euros_rebuts": "1,125.8"
+    },
+    {
+      "pais": "Malaysia",
+      "euros_rebuts": "-119.4"
+    },
+    {
+      "pais": "Maldives",
+      "euros_rebuts": "22.9"
+    },
+    {
+      "pais": "Mali",
+      "euros_rebuts": "1,391.3"
+    },
+    {
+      "pais": "Marshall Islands",
+      "euros_rebuts": "93.7"
+    },
+    {
+      "pais": "Mauritania",
+      "euros_rebuts": "291.2"
+    },
+    {
+      "pais": "Mauritius",
+      "euros_rebuts": "148.3"
+    },
+    {
+      "pais": "Mexico",
+      "euros_rebuts": "560.6"
+    },
+    {
+      "pais": "Micronesia, Federated States of",
+      "euros_rebuts": "142.9"
+    },
+    {
+      "pais": "Moldova",
+      "euros_rebuts": "374.4"
+    },
+    {
+      "pais": "Mongolia",
+      "euros_rebuts": "428.2"
+    },
+    {
+      "pais": "Montenegro",
+      "euros_rebuts": "127.3"
+    },
+    {
+      "pais": "Morocco",
+      "euros_rebuts": "1,966.1"
+    },
+    {
+      "pais": "Mozambique",
+      "euros_rebuts": "2,314.1"
+    },
+    {
+      "pais": "Myanmar",
+      "euros_rebuts": "3934.8"
+    },
+    {
+      "pais": "Namibia",
+      "euros_rebuts": "261.7"
+    },
+    {
+      "pais": "Nepal",
+      "euros_rebuts": "870.5"
+    },
+    {
+      "pais": "Nicaragua",
+      "euros_rebuts": "496.6"
+    },
+    {
+      "pais": "Niger",
+      "euros_rebuts": "773.1"
+    },
+    {
+      "pais": "Nigeria",
+      "euros_rebuts": "2,529.4"
+    },
+    {
+      "pais": "Pakistan",
+      "euros_rebuts": "2174.1"
+    },
+    {
+      "pais": "Palau",
+      "euros_rebuts": "35.2"
+    },
+    {
+      "pais": "Panama",
+      "euros_rebuts": "6.8"
+    },
+    {
+      "pais": "Papua New Guinea",
+      "euros_rebuts": "656.2"
+    },
+    {
+      "pais": "Paraguay",
+      "euros_rebuts": "129.4"
+    },
+    {
+      "pais": "Peru",
+      "euros_rebuts": "367.5"
+    },
+    {
+      "pais": "Rwanda",
+      "euros_rebuts": "1,081.1"
+    },
+    {
+      "pais": "Samoa",
+      "euros_rebuts": "118.1"
+    },
+    {
+      "pais": "São Tomé and Príncipe",
+      "euros_rebuts": "51.7"
+    },
+    {
+      "pais": "Senegal",
+      "euros_rebuts": "982.8"
+    },
+    {
+      "pais": "Serbia",
+      "euros_rebuts": "783.2"
+    },
+    {
+      "pais": "Seychelles",
+      "euros_rebuts": "25.4"
+    },
+    {
+      "pais": "Sierra Leone",
+      "euros_rebuts": "443.7"
+    },
+    {
+      "pais": "Solomon Islands",
+      "euros_rebuts": "288.3"
+    },
+    {
+      "pais": "Somalia",
+      "euros_rebuts": "991.9"
+    },
+    {
+      "pais": "South Africa",
+      "euros_rebuts": "1,292.9"
+    },
+    {
+      "pais": "South Sudan",
+      "euros_rebuts": "1,447.4"
+    },
+    {
+      "pais": "Sri Lanka",
+      "euros_rebuts": "423.2"
+    },
+    {
+      "pais": "St. Kitts & Nevis",
+      "euros_rebuts": "29.3"
+    },
+    {
+      "pais": "St. Lucia",
+      "euros_rebuts": "24.3"
+    },
+    {
+      "pais": "Saint Vincent and the Grenadines",
+      "euros_rebuts": "7.5"
+    },
+    {
+      "pais": "Sudan",
+      "euros_rebuts": "1,163.1"
+    },
+    {
+      "pais": "Suriname",
+      "euros_rebuts": "29.8"
+    },
+    {
+      "pais": "Swaziland",
+      "euros_rebuts": "115.9"
+    },
+    {
+      "pais": "Syria",
+      "euros_rebuts": "3,626.7"
+    },
+    {
+      "pais": "Tajikistan",
+      "euros_rebuts": "382.2"
+    },
+    {
+      "pais": "Tanzania",
+      "euros_rebuts": "3,430.2"
+    },
+    {
+      "pais": "Thailand",
+      "euros_rebuts": "-23.7"
+    },
+    {
+      "pais": "Timor-Leste",
+      "euros_rebuts": "257.8"
+    },
+    {
+      "pais": "Togo",
+      "euros_rebuts": "220.5"
+    },
+    {
+      "pais": "Tonga",
+      "euros_rebuts": "80.3"
+    },
+    {
+      "pais": "Tunisia",
+      "euros_rebuts": "713.6"
+    },
+    {
+      "pais": "Turkey",
+      "euros_rebuts": "2,740.5"
+    },
+    {
+      "pais": "Turkmenistan",
+      "euros_rebuts": "37.3"
+    },
+    {
+      "pais": "Tuvalu",
+      "euros_rebuts": "26.6"
+    },
+    {
+      "pais": "Uganda",
+      "euros_rebuts": "1,692.5"
+    },
+    {
+      "pais": "Ukraine",
+      "euros_rebuts": "800.7"
+    },
+    {
+      "pais": "Uruguay",
+      "euros_rebuts": "35.7"
+    },
+    {
+      "pais": "Uzbekistan",
+      "euros_rebuts": "292.5"
+    },
+    {
+      "pais": "Vanuatu",
+      "euros_rebuts": "90.5"
+    },
+    {
+      "pais": "Venezuela",
+      "euros_rebuts": "35.4"
+    },
+    {
+      "pais": "Vietnam",
+      "euros_rebuts": "4,084.7"
+    },
+    {
+      "pais": "Yemen",
+      "euros_rebuts": "1,003.5"
+    },
+    {
+      "pais": "Zambia",
+      "euros_rebuts": "1,142.4"
+    },
+    {
+      "pais": "Zimbabwe",
+      "euros_rebuts": "811"
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    },
+    {
+      "pais": "[TOTAL]",
+      "euros_rebuts": ""
+    }
+  ]
+}
